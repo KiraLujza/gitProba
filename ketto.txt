@@ -1,1 +1,2 @@
 A ketto.txt első sora.
+Még egy sor
